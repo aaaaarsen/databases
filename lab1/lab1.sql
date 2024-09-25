@@ -26,6 +26,8 @@ CREATE TABLE tasks(
 
 DROP TABLE tasks;
 
+DROP TABLE users;
+
 \c postgres;
 
 DROP DATABASE "lab1";
